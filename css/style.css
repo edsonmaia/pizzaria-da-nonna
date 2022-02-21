@@ -70,6 +70,10 @@ aside.show {
     padding:20px;
 }
 
+.cart--area h1 {
+    display: relative;
+}
+
 main {
     flex:1;
     padding:20px;
