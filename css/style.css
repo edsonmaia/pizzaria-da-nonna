@@ -67,6 +67,7 @@ aside.show {
 }
 
 .cart--area {
+    margin-top: 30px; /* ajuste */
     padding:20px;
 }
 
